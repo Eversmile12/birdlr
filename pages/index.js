@@ -6,10 +6,10 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <h1>Coming from Twitter?</h1>
-      <h3>Hello there!</h3>
+      <h3>Hello there! 👋</h3>
       <p><strong>Birdlr.com</strong> is a Twitter growth copilot.</p>
-      <p>Unfortunately is currently under development.</p>
-      <p>Want to know more?<a href="https://twitter.com/VittoRivabella"> Follow me on Twitter</a></p>
+      <p>I'm currently Design thinking on creators needs to better address their pain points!</p>
+      <p>Want to know more?<a href="https://twitter.com/VittoRivabella"> Connect on Twitter</a> ⚡</p>
     </div>
   )
 }
