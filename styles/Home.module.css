@@ -1,11 +1,7 @@
 .container {
+  padding: 5rem;
   min-height: 100vh;
-  padding: 0 0.5rem;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
+  min-width: 100vh;
 }
 
 .main {
@@ -33,14 +29,14 @@
   flex-grow: 1;
 }
 
-.title a {
+.container a {
   color: #0070f3;
   text-decoration: none;
 }
 
-.title a:hover,
-.title a:focus,
-.title a:active {
+.container a:hover,
+.container a:focus,
+.container a:active {
   text-decoration: underline;
 }
 
