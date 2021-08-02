@@ -8,7 +8,7 @@ export default function Home() {
       <h1>Coming from Twitter?</h1>
       <h3>Hello there! 👋</h3>
       <p><strong>Birdlr.com</strong> is a Twitter growth copilot.</p>
-      <p>I'm currently Design thinking on creators needs to better address their pain points!</p>
+      <p>I&apos;m currently Design thinking on creators needs to better address their pain points!</p>
       <p>Want to know more?<a href="https://twitter.com/VittoStack"> Connect on Twitter</a> ⚡</p>
     </div>
   )
